@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
 A python fine that prints 
+Return: null
 """
 import sys, os
 
@@ -16,6 +17,12 @@ if not os.path.isfile(markdown_file):
   sys.exit(1)
 
 
-sys.exit(0)
-
-
+# Open the input and output files
+with open(markdown_file, 'r') as infile, open(output_file, 'w') as outfile:
+    for line in infile:
+        line = line.strip()
+        if line.startswith('#'):
+            # Count the number of leading # to determine heading level
+            level = len(line.split(' ')[0])
+            content = line[level:].strip()
+            outfile.write(f"<h{level}>{content}</h{level}>\n")
