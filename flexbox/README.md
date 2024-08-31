@@ -63,23 +63,19 @@ Read or watch:
 ### [16. Timemachine boxes!](./101-style.css)
 
 ---
-## Technologies & Tools :computer:
-
-- NPM
-- Git
-- Figma
-- HTML5
-- Ubuntu
-- JavaScript
-- GNU Bash
-- Node.js
-- Vim
-- Pop!_OS
-- VS Code
-- CSS3
-- jQuery
-- Bootstrap
-- GitHub
-- JSON
-
-
+- **NPM** - Package manager for JavaScript.
+- **Git** - Version control system.
+- **Figma** - Design tool.
+- **HTML5** - Markup language for creating web pages.
+- **Ubuntu** - Linux distribution.
+- **JavaScript** - Programming language for web development.
+- **GNU Bash** - Command language interpreter.
+- **Node.js** - JavaScript runtime environment.
+- **Vim** - Text editor.
+- **Pop!_OS** - Linux distribution.
+- **VS Code** - Source-code editor.
+- **CSS3** - Styling language for web pages.
+- **jQuery** - JavaScript library.
+- **Bootstrap** - CSS framework for responsive design.
+- **GitHub** - Platform for version control and collaboration.
+- **JSON** - Data interchange format.
