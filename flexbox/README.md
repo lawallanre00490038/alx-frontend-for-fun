@@ -63,6 +63,23 @@ Read or watch:
 ### [16. Timemachine boxes!](./101-style.css)
 
 ---
+## Technologies & Tools :computer:
 
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+- NPM
+- Git
+- Figma
+- HTML5
+- Ubuntu
+- JavaScript
+- GNU Bash
+- Node.js
+- Vim
+- Pop!_OS
+- VS Code
+- CSS3
+- jQuery
+- Bootstrap
+- GitHub
+- JSON
+
+
